@@ -63,8 +63,3 @@ jupyter notebook notebooks/insurance_claim_prediction.ipynb
 
 ---
 
-
-### 👤 Author
-- Nsangou Abdel Raim 
-- [LinkedIn](https://linkedin.com/in/nsangou-ngoupayou-abdel-raim-aa32612b5)  
-- [GitHub](https://github.com/Nsangou22)
