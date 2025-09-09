@@ -52,8 +52,8 @@ Evaluation metrics: R² Score, RMSE, MAE.
 ## ⚙️ How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/insurance_claim_prediction.git
-cd insurance_claim_prediction ```
+git clone https://github.com/Nsangou22/Insurance-Analyses-.git
+cd Insurance-Analyses- ```
 
 
 # Or open the notebook for ML exploration
